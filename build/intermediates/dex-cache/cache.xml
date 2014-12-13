@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/ggarrido/projects/android/cardboard-java/CardboardSample/libs/libprotobuf-java-2.3-nano.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="c4d70e4409fdf6dc367b7db105751ab73bec766a">
+        <dex dex="/home/ggarrido/projects/android/cardboard-java/CardboardSample/build/intermediates/pre-dexed/debug/libprotobuf-java-2.3-nano-5f13e6df104c391ab8b48328af71dd0910e6495b.jar" />
+    </item>
+    <item
+        jar="/home/ggarrido/projects/android/cardboard-java/CardboardSample/libs/cardboard.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="c02b2206c0c78c747bcd26cab1cc948c5f00a63f">
+        <dex dex="/home/ggarrido/projects/android/cardboard-java/CardboardSample/build/intermediates/pre-dexed/debug/cardboard-aeef48e92acfc6513ea42173c3b52ebcf1deddbc.jar" />
+    </item>
+    <item
+        jar="/home/ggarrido/.gradle/caches/modules-2/files-2.1/com.google.guava/guava-jdk5/14.0.1/ec21c29e3f8afccff893486de213a86998daf134/guava-jdk5-14.0.1.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="ec21c29e3f8afccff893486de213a86998daf134">
+        <dex dex="/home/ggarrido/projects/android/cardboard-java/CardboardSample/build/intermediates/pre-dexed/debug/guava-jdk5-14.0.1-f682491e6609db7d0b586fd01f506a9f17e7b130.jar" />
+    </item>
+
+</items>
